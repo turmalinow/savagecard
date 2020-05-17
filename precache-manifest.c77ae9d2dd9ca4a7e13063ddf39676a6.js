@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e99af2feefe29ba567190ea49a671d2a",
+    "revision": "0f03c18327bbb6ee6d20e57d5f73b136",
     "url": "/savagecard/index.html"
   },
   {
-    "revision": "d6429a05659ab0119849",
-    "url": "/savagecard/static/css/main.4cff2502.chunk.css"
+    "revision": "27c09302699135e80821",
+    "url": "/savagecard/static/css/main.4f86fa1f.chunk.css"
   },
   {
     "revision": "3622f8c2497faf1ba434",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/savagecard/static/js/2.3fbfc2e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d6429a05659ab0119849",
-    "url": "/savagecard/static/js/main.790a6e79.chunk.js"
+    "revision": "27c09302699135e80821",
+    "url": "/savagecard/static/js/main.a5a48b78.chunk.js"
   },
   {
     "revision": "0b511a869a2e345aba44",
