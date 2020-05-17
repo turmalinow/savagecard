@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/savagecard/static/css/main.17ab7eb9.chunk.css",
+    "main.js": "/savagecard/static/js/main.13ec0aec.chunk.js",
+    "main.js.map": "/savagecard/static/js/main.13ec0aec.chunk.js.map",
+    "runtime-main.js": "/savagecard/static/js/runtime-main.6d0594e2.js",
+    "runtime-main.js.map": "/savagecard/static/js/runtime-main.6d0594e2.js.map",
+    "static/js/2.bf9aa0e0.chunk.js": "/savagecard/static/js/2.bf9aa0e0.chunk.js",
+    "static/js/2.bf9aa0e0.chunk.js.map": "/savagecard/static/js/2.bf9aa0e0.chunk.js.map",
+    "index.html": "/savagecard/index.html",
+    "precache-manifest.b38e7deaa948929ac49a4eaad0cf2e06.js": "/savagecard/precache-manifest.b38e7deaa948929ac49a4eaad0cf2e06.js",
+    "service-worker.js": "/savagecard/service-worker.js",
+    "static/css/main.17ab7eb9.chunk.css.map": "/savagecard/static/css/main.17ab7eb9.chunk.css.map",
+    "static/js/2.bf9aa0e0.chunk.js.LICENSE.txt": "/savagecard/static/js/2.bf9aa0e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d0594e2.js",
+    "static/js/2.bf9aa0e0.chunk.js",
+    "static/css/main.17ab7eb9.chunk.css",
+    "static/js/main.13ec0aec.chunk.js"
+  ]
+}
