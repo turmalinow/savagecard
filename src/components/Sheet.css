@@ -1,0 +1,8 @@
+.sw.sheet {
+    display: grid;
+    grid-gap: 2mm;
+    grid-template-columns: repeat(12, 15mm);
+    grid-template-rows: repeat(12, 22mm);
+
+    padding: 5mm 4mm;
+}

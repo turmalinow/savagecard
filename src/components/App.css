@@ -1,0 +1,62 @@
+.sw.sheet {
+    font-family: 'Bangers', cursive;
+}
+
+.sw.border {
+    border: 1px solid lightgray;
+}
+
+section.sw {
+    padding: 2mm;
+}
+
+section.sw h2 {
+    color: lightgray;
+    font-size: 12pt;
+}
+
+i.logo {
+    background-image: url("https://www.peginc.com/wp-content/uploads/2012/04/SW_Logo_FP-1-300x187.jpg");
+    height: 45mm;
+    width: 65mm;
+    filter: grayscale(100%);
+    overflow: visible;
+    background-size: 62mm;
+    background-repeat: no-repeat;
+}
+
+.section-info {
+    grid-column-start: 5;
+    grid-column-end: 13;
+    grid-row-start: 1;
+    grid-row-end: span 2;
+}
+
+.section-skills {
+    grid-column-start: 1;
+    grid-column-end: span 8;
+    grid-row-start: 3;
+    grid-row-end: span 5;
+}
+
+.section-tokens {
+    grid-column-start: 9;
+    grid-column-end: span 4;
+    grid-row-start: 3;
+    grid-row-end: span 5;
+}
+
+.section-edges {
+    grid-column-start: 1;
+    grid-column-end: span 6;
+    grid-row-start: 8;
+    grid-row-end: span 5;
+}
+
+.section-gear {
+    grid-column-start: 7;
+    grid-column-end: span 6;
+    grid-row-start: 8;
+    grid-row-end: span 5;
+}
+

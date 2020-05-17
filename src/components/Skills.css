@@ -1,0 +1,30 @@
+.skills {
+    column-count: 2;
+}
+
+.skills .column-break {
+    break-before: column;
+}
+
+.skills ul {
+    margin-left: 3mm;
+}
+
+.skills .level-1:first-child {
+    /*margin-top: -7mm;*/
+}
+
+.skills h3, .skills .level-2 li {
+    display: flex;
+    justify-content: space-between;
+}
+
+.skills .name {
+    flex-grow: 0;
+}
+
+.skills .value {
+    flex-grow: 1;
+    text-align: right;
+    border-bottom: 1px dashed lightgray;
+}

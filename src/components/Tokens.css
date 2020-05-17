@@ -1,0 +1,70 @@
+.tokens {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.tokens i {
+    display: block;
+}
+.tokens .secondaries {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.tokens .secondaries i {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 28mm;
+    height: 28mm;
+    font-size: 32pt;
+    font-family: 'Montserrat', sans-serif;
+}
+.tokens .secondaries i span {
+    display: block;
+}
+.tokens .wounds i {
+    width: 25mm;
+    height: 25mm;
+    background-repeat: no-repeat;
+    background-size: 25mm 25mm;
+    margin-top: -8mm;
+}
+.tokens .pace {
+    background-image: url("/images/pace.svg");
+}
+.tokens .parry {
+    background-image: url("/images/parry.svg");
+}
+.tokens .toughness {
+    background-image: url("/images/toughnes.svg");
+}
+.tokens .fatigue-1 {
+    background-image: url("/images/fatigue-1.svg");
+    margin-top: 0 !important;
+}
+.tokens .fatigue-2 {
+    background-image: url("/images/fatigue-2.svg");
+    margin-left: 7.4mm;
+}
+.tokens .out {
+    background-image: url("/images/eliminated.svg");
+    margin-left: 1.5mm;
+    margin-top: -3.9mm;
+}
+.tokens .wound-3 {
+    background-image: url("/images/wound-3.svg");
+    margin-left: 5.1mm;
+    margin-top: -3.9mm;
+}
+.tokens .wound-2 {
+    background-image: url("/images/wound-2.svg");
+    margin-left: 0.4mm;
+    margin-top: -3.9mm;
+}
+.tokens .wound-1 {
+    background-image: url("/images/wound-1.svg");
+    margin-left: 5mm;
+    margin-top: -3.9mm;
+}

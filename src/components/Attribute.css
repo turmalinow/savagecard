@@ -1,0 +1,12 @@
+.attributes {
+    font-size: 18pt;
+    line-height: 12pt;
+}
+.attributes h3 {
+    margin-top: 4mm;
+    margin-bottom: 3mm;
+    font-size: 1.3em;
+}
+.attributes .level-2 li {
+    margin-bottom: 2mm;
+}
