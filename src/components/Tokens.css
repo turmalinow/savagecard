@@ -32,39 +32,39 @@
     margin-top: -8mm;
 }
 .tokens .pace {
-    background-image: url("pace.svg");
+    background-image: url(pace.svg);
 }
 .tokens .parry {
-    background-image: url("/images/parry.svg");
+    background-image: url(parry.svg);
 }
 .tokens .toughness {
-    background-image: url("/images/toughnes.svg");
+    background-image: url(toughnes.svg);
 }
 .tokens .fatigue-1 {
-    background-image: url("/images/fatigue-1.svg");
+    background-image: url(fatigue-1.svg);
     margin-top: 0 !important;
 }
 .tokens .fatigue-2 {
-    background-image: url("/images/fatigue-2.svg");
+    background-image: url(fatigue-2.svg);
     margin-left: 7.4mm;
 }
 .tokens .out {
-    background-image: url("/images/eliminated.svg");
+    background-image: url(eliminated.svg);
     margin-left: 1.5mm;
     margin-top: -3.9mm;
 }
 .tokens .wound-3 {
-    background-image: url("/images/wound-3.svg");
+    background-image: url(wound-3.svg);
     margin-left: 5.1mm;
     margin-top: -3.9mm;
 }
 .tokens .wound-2 {
-    background-image: url("/images/wound-2.svg");
+    background-image: url(wound-2.svg);
     margin-left: 0.4mm;
     margin-top: -3.9mm;
 }
 .tokens .wound-1 {
-    background-image: url("/images/wound-1.svg");
+    background-image: url(wound-1.svg);
     margin-left: 5mm;
     margin-top: -3.9mm;
 }
