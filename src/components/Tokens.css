@@ -32,7 +32,7 @@
     margin-top: -8mm;
 }
 .tokens .pace {
-    background-image: url("%PUBLIC_URL%/images/pace.svg");
+    background-image: url("pace.svg");
 }
 .tokens .parry {
     background-image: url("/images/parry.svg");
