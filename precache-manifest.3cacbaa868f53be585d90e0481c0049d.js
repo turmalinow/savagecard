@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "610fc5149bc18c55d8c35b3683ca74ba",
+    "revision": "e99af2feefe29ba567190ea49a671d2a",
     "url": "/savagecard/index.html"
   },
   {
-    "revision": "0c922b3eede4a32320da",
+    "revision": "d6429a05659ab0119849",
     "url": "/savagecard/static/css/main.4cff2502.chunk.css"
   },
   {
-    "revision": "2476555e6a15e576a53f",
-    "url": "/savagecard/static/js/2.bf9aa0e0.chunk.js"
+    "revision": "3622f8c2497faf1ba434",
+    "url": "/savagecard/static/js/2.3fbfc2e9.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/savagecard/static/js/2.bf9aa0e0.chunk.js.LICENSE.txt"
+    "url": "/savagecard/static/js/2.3fbfc2e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c922b3eede4a32320da",
-    "url": "/savagecard/static/js/main.13ec0aec.chunk.js"
+    "revision": "d6429a05659ab0119849",
+    "url": "/savagecard/static/js/main.790a6e79.chunk.js"
   },
   {
     "revision": "0b511a869a2e345aba44",

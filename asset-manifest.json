@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/savagecard/static/css/main.4cff2502.chunk.css",
-    "main.js": "/savagecard/static/js/main.13ec0aec.chunk.js",
-    "main.js.map": "/savagecard/static/js/main.13ec0aec.chunk.js.map",
+    "main.js": "/savagecard/static/js/main.790a6e79.chunk.js",
+    "main.js.map": "/savagecard/static/js/main.790a6e79.chunk.js.map",
     "runtime-main.js": "/savagecard/static/js/runtime-main.6d0594e2.js",
     "runtime-main.js.map": "/savagecard/static/js/runtime-main.6d0594e2.js.map",
-    "static/js/2.bf9aa0e0.chunk.js": "/savagecard/static/js/2.bf9aa0e0.chunk.js",
-    "static/js/2.bf9aa0e0.chunk.js.map": "/savagecard/static/js/2.bf9aa0e0.chunk.js.map",
+    "static/js/2.3fbfc2e9.chunk.js": "/savagecard/static/js/2.3fbfc2e9.chunk.js",
+    "static/js/2.3fbfc2e9.chunk.js.map": "/savagecard/static/js/2.3fbfc2e9.chunk.js.map",
     "index.html": "/savagecard/index.html",
-    "precache-manifest.2d0c6de9f6467ea3512db13f01d5ed89.js": "/savagecard/precache-manifest.2d0c6de9f6467ea3512db13f01d5ed89.js",
+    "precache-manifest.3cacbaa868f53be585d90e0481c0049d.js": "/savagecard/precache-manifest.3cacbaa868f53be585d90e0481c0049d.js",
     "service-worker.js": "/savagecard/service-worker.js",
     "static/css/main.4cff2502.chunk.css.map": "/savagecard/static/css/main.4cff2502.chunk.css.map",
-    "static/js/2.bf9aa0e0.chunk.js.LICENSE.txt": "/savagecard/static/js/2.bf9aa0e0.chunk.js.LICENSE.txt",
+    "static/js/2.3fbfc2e9.chunk.js.LICENSE.txt": "/savagecard/static/js/2.3fbfc2e9.chunk.js.LICENSE.txt",
     "static/media/Tokens.css": "/savagecard/static/media/wound-3.d83794b7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6d0594e2.js",
-    "static/js/2.bf9aa0e0.chunk.js",
+    "static/js/2.3fbfc2e9.chunk.js",
     "static/css/main.4cff2502.chunk.css",
-    "static/js/main.13ec0aec.chunk.js"
+    "static/js/main.790a6e79.chunk.js"
   ]
 }
