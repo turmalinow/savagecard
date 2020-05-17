@@ -355,4 +355,6 @@ const skills = [
     }
 ];
 
-export {attributes, skills};
+const diceTypes = ['k4', 'k6', 'k8', 'k10', 'k12'];
+
+export {attributes, skills, diceTypes};
