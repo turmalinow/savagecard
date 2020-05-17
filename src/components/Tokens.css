@@ -18,11 +18,21 @@
     justify-content: center;
     width: 28mm;
     height: 28mm;
+}
+.tokens .secondaries i input {
+    text-align: center;
+    border: 0;
+    width: 20mm;
     font-size: 32pt;
     font-family: 'Montserrat', sans-serif;
+    background-color: transparent;
 }
-.tokens .secondaries i span {
-    display: block;
+.tokens .secondaries i.double {
+    display: flex;
+    flex-direction: column;
+}
+.tokens .secondaries i.double input {
+    font-size: 15pt;
 }
 .tokens .wounds i {
     width: 25mm;
