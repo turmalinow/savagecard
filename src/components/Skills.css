@@ -9,21 +9,21 @@
 .skills ul {
     margin-left: 3mm;
 }
-
-.skills .level-1:first-child {
-    /*margin-top: -7mm;*/
+.skills .level-1 h3 {
+    line-height: 0.7em;
 }
-
-.skills h3, .skills .level-2 li {
+.skills .level-1 h3, .skills .level-2 li {
     display: flex;
     justify-content: space-between;
+    font-family: 'Bangers', cursive;
+    margin: 0;
 }
 
 .skills .name {
     flex-grow: 0;
 }
 
-.skills .value {
+.skills .level-1 li .attributes .value {
     flex-grow: 1;
     text-align: right;
     border-bottom: 1px dashed lightgray;

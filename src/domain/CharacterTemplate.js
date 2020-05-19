@@ -306,16 +306,6 @@ const skills = [
     {
         arcane: true,
         basic: false,
-        key: 'faith',
-        attribute: 'spirit',
-        name: {
-            en: 'Faith',
-            pl: 'Wiara'
-        }
-    },
-    {
-        arcane: true,
-        basic: false,
         key: 'concentration',
         attribute: 'spirit',
         name: {
@@ -344,13 +334,23 @@ const skills = [
         }
     },
     {
-        arcane: true,
+        arcane: false,
         basic: false,
         key: 'psionic',
         attribute: 'smarts',
         name: {
             en: 'Psionic',
             pl: 'Psionika'
+        }
+    },
+    {
+        arcane: false,
+        basic: false,
+        key: 'faith',
+        attribute: 'spirit',
+        name: {
+            en: 'Faith',
+            pl: 'Wiara'
         }
     }
 ];
