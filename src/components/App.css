@@ -1,7 +1,6 @@
 .sw.border {
     border: 1px solid lightgray;
 }
-
 section.sw {
     padding: 2mm;
 }
@@ -29,6 +28,9 @@ i.logo {
     grid-row-start: 1;
     grid-row-end: span 2;
 }
+.section-info .editable-pane textarea {
+    height: 36mm;
+}
 
 .section-skills {
     grid-column-start: 1;
@@ -49,6 +51,9 @@ i.logo {
     grid-column-end: span 6;
     grid-row-start: 8;
     grid-row-end: span 5;
+}
+.section-edges .editable-pane textarea {
+    height: 108mm;
 }
 
 .section-gear {

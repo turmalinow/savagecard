@@ -1,0 +1,30 @@
+.editable-pane.actions {
+    float: right;
+}
+section.sw .editable-pane .hidden {
+    display: none !important;
+}
+section.sw .icon.edit {
+    display: none;
+}
+section.sw:hover .icon.edit {
+    display: inline;
+}
+section.sw textarea, section.sw .user-content {
+    font-family: "Montserrat", sans-serif;
+    width: 100%;
+    padding: 0;
+}
+section.sw textarea {
+    display: block;
+    resize: vertical;
+    border: 1px solid gray;
+    line-height: 1em;
+}
+section.sw .user-content {
+    border: 1px solid white;
+}
+section.sw .user-content p {
+    line-height: 1em;
+    margin: 0;
+}
