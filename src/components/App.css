@@ -62,4 +62,6 @@ i.logo {
     grid-row-start: 8;
     grid-row-end: span 5;
 }
-
+.section-gear .editable-pane textarea {
+    height: 108mm;
+}
