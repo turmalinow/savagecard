@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2d8aa4f687a5cc4b125f9ad39f34d46",
+    "revision": "494fbce57df3594e3a98e275ac603db8",
     "url": "/savagecard/index.html"
   },
   {
